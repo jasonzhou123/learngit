@@ -1,12 +1,12 @@
 ﻿git:
 克隆库
-git clone git@github.com:jasonzhou123/
+git clone git@github.com:jasonzhoujg/
 提交修改
 git push origin master
 
 
 添加origin
-git remote add origin git@github.com:jasonzhou123/
+git remote add origin git@github.com:jasonzhoujg/
 配合使用
 git push -u origin master
 
